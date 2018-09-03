@@ -1,3 +1,3 @@
-# cm2018f
+Student ID : 20181018 Student name : Mi Jang
 
-Repository for Computational Microelectrionics, 2018 Fall
+Thank you!
